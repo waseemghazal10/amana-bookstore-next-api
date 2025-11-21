@@ -77,6 +77,17 @@
       "reviewCount": 12,
       "inStock": false,
       "featured": false
+    },
+    {
+      "title": "Test Book",
+      "author": "Test Author",
+      "price": 49.99,
+      "id": "4",
+      "rating": 0,
+      "reviewCount": 0,
+      "inStock": true,
+      "featured": false,
+      "datePublished": "2025-11-21"
     }
   ]
 }
